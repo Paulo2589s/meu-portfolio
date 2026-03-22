@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <style>
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      body { font-family: 'Montserrat', sans-serif; background: #F7FAFC; color: #718096; }
+      .slide-container { 
+        width: 1280px; 
+        min-height: 720px; 
+        display: flex; 
+        align-items: center; 
+        justify-content: center;
+        padding-top: 60px;
+      }
+      .content-wrapper {
+        width: 1100px;
+        display: grid;
+        grid-template-columns: repeat(12, 1fr);
+        gap: 20px;
+        border: 1px solid rgba(49, 151, 149, 0.2);
+        padding-top: 40px;
+        padding-left: 40px;
+        padding-right: 40px;
+        min-height: 500px;
+        background: white;
+      }
+      .left-col {
+        grid-column: span 5;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        padding-top: 20px;
+      }
+      .right-col {
+        grid-column: span 7;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        border-left: 1px solid rgba(49, 151, 149, 0.1);
+        padding-left: 40px;
+      }
+      h2 { 
+        font-size: 48px; 
+        font-weight: 500; 
+        color: #2D3748; 
+        line-height: 1.2;
+        margin-bottom: 20px;
+      }
+      .icon-box {
+        font-size: 100px;
+        color: #319795;
+        margin-bottom: 30px;
+      }
+      p {
+        font-size: 24px;
+        line-height: 1.6;
+        color: #718096;
+        margin-bottom: 20px;
+      }
+      .highlight {
+        color: #319795;
+        font-weight: 500;
+      }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="content-wrapper">
+            <div class="left-col">
+                <div class="icon-box">
+                    <i class="fas fa-handshake"></i>
+                </div>
+                <h2>Vamos Construir Algo Juntos!</h2>
+            </div>
+            <div class="right-col">
+                <p>
+                    Estou aberto a <span class="highlight">novas oportunidades</span> e colaborações que desafiem minha criatividade e habilidades técnicas.
+                </p>
+                <p>
+                    Se você tem um projeto em mente, busca um desenvolvedor dedicado ou apenas quer trocar ideias sobre tecnologia, sinta-se à vontade para entrar em contato.
+                </p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,120 @@
+{
+  "project_info": {
+    "title": "Portfólio Profissional",
+    "created": 1774144840.055094,
+    "last_updated": 1774144881.1085882,
+    "total_slides": 9
+  },
+  "slides": [
+    {
+      "id": "title_slide",
+      "state": "edited",
+      "pageNum": 1
+    },
+    {
+      "id": "about_me",
+      "state": "edited",
+      "pageNum": 2
+    },
+    {
+      "id": "skills",
+      "state": "edited",
+      "pageNum": 3
+    },
+    {
+      "id": "experience",
+      "state": "edited",
+      "pageNum": 4
+    },
+    {
+      "id": "project_1",
+      "state": "edited",
+      "pageNum": 5
+    },
+    {
+      "id": "project_2",
+      "state": "edited",
+      "pageNum": 6
+    },
+    {
+      "id": "collaboration",
+      "state": "edited",
+      "pageNum": 7
+    },
+    {
+      "id": "contact_info",
+      "state": "edited",
+      "pageNum": 8
+    },
+    {
+      "id": "closing_slide",
+      "state": "edited",
+      "pageNum": 9
+    }
+  ],
+  "outline": [
+    {
+      "id": "title_slide",
+      "title": "Portfólio Profissional",
+      "summary": "Slide de título apresentando o Desenvolvedor Paulo e sua missão.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "about_me",
+      "title": "Sobre Mim",
+      "summary": "Breve biografia e paixão por desenvolvimento web.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "skills",
+      "title": "Habilidades Técnicas",
+      "summary": "Lista de tecnologias e ferramentas dominadas.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "experience",
+      "title": "Experiência Profissional",
+      "summary": "Histórico de atuação como Desenvolvedor Frontend.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "project_1",
+      "title": "Projeto: Agenda Inteligente",
+      "summary": "Detalhes sobre a ferramenta de organização diária.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "project_2",
+      "title": "Projeto: Excel Dashboard Dash",
+      "summary": "Ferramenta para simplificação de análise de dados.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "collaboration",
+      "title": "Vamos Colaborar?",
+      "summary": "Convite para novos projetos e parcerias.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "contact_info",
+      "title": "Informações de Contato",
+      "summary": "Canais de comunicação e localização.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    },
+    {
+      "id": "closing_slide",
+      "title": "Obrigado!",
+      "summary": "Agradecimento final e encerramento.",
+      "image_plan": "Use a suitable image if needed",
+      "slide_template_key": ""
+    }
+  ]
+}

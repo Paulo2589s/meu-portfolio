@@ -1,0 +1,11 @@
+10.17.4.1 - - [21/Mar/2026 21:49:22] "HEAD / HTTP/1.1" 200 -
+10.17.4.1 - - [21/Mar/2026 21:49:22] "GET / HTTP/1.1" 200 -
+10.17.4.1 - - [21/Mar/2026 21:49:23] "GET / HTTP/1.1" 200 -
+10.17.4.1 - - [21/Mar/2026 21:49:23] code 404, message File not found
+10.17.4.1 - - [21/Mar/2026 21:49:23] "GET /style/style.css HTTP/1.1" 404 -
+10.17.4.1 - - [21/Mar/2026 21:49:23] code 404, message File not found
+10.17.4.1 - - [21/Mar/2026 21:49:23] "GET /script/script.js HTTP/1.1" 404 -
+10.17.4.1 - - [21/Mar/2026 21:49:23] code 404, message File not found
+10.17.4.1 - - [21/Mar/2026 21:49:23] "GET /img/minha%20foto.jpeg HTTP/1.1" 404 -
+10.17.4.1 - - [21/Mar/2026 21:49:23] code 404, message File not found
+10.17.4.1 - - [21/Mar/2026 21:49:23] "GET /favicon.ico HTTP/1.1" 404 -
